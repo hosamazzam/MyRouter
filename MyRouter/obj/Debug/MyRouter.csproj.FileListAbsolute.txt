@@ -1,0 +1,36 @@
+C:\Users\hosam azzam\Desktop\MyRouter\MyRouter\bin\Debug\MyRouter.exe.config
+C:\Users\hosam azzam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.csprojResolveAssemblyReference.cache
+C:\Users\hosam azzam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.Form1.resources
+C:\Users\hosam azzam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.Properties.Resources.resources
+C:\Users\hosam azzam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.csproj.GenerateResource.Cache
+C:\Users\hosam azzam\Desktop\MyRouter\MyRouter\bin\Debug\MyRouter.exe
+C:\Users\hosam azzam\Desktop\MyRouter\MyRouter\bin\Debug\MyRouter.pdb
+C:\Users\hosam azzam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.exe
+C:\Users\hosam azzam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.pdb
+E:\hosam\Desktop\MyRouter\MyRouter\bin\Debug\MyRouter.exe.config
+E:\hosam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.exe
+E:\hosam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.pdb
+E:\hosam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.csprojResolveAssemblyReference.cache
+E:\hosam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.Form1.resources
+E:\hosam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.Properties.Resources.resources
+E:\hosam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.splash.resources
+E:\hosam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.csproj.GenerateResource.Cache
+E:\hosam\Desktop\MyRouter\MyRouter\bin\Debug\MyRouter.exe
+E:\hosam\Desktop\MyRouter\MyRouter\bin\Debug\MyRouter.pdb
+E:\hosam\Desktop\MyRouter\MyRouter\obj\Debug\MyRouter.about.resources
+D:\my project\MyRouter\MyRouter\bin\Debug\MyRouter.exe.config
+D:\my project\MyRouter\MyRouter\bin\Debug\MyRouter.exe.manifest
+D:\my project\MyRouter\MyRouter\bin\Debug\MyRouter.application
+D:\my project\MyRouter\MyRouter\bin\Debug\MyRouter.exe
+D:\my project\MyRouter\MyRouter\bin\Debug\MyRouter.pdb
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.csprojResolveAssemblyReference.cache
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.about.resources
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.Form1.resources
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.Properties.Resources.resources
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.splash.resources
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.csproj.GenerateResource.Cache
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.TrustInfo.xml
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.exe.manifest
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.application
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.exe
+D:\my project\MyRouter\MyRouter\obj\Debug\MyRouter.pdb
